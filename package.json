@@ -1,0 +1,33 @@
+{
+  "name": "yeelight-csgo-gsi",
+  "version": "1.0.0",
+  "description": "GameState Integration for CS:GO with Yeelight",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diogotcorreia/yeelight-csgo-gsi.git"
+  },
+  "keywords": [
+    "csgo",
+    "yeelight",
+    "gsi"
+  ],
+  "author": "Diogo Correia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/diogotcorreia/yeelight-csgo-gsi/issues"
+  },
+  "homepage": "https://github.com/diogotcorreia/yeelight-csgo-gsi#readme",
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  },
+  "dependencies": {
+    "prettier": "^1.18.2",
+    "yeelight-platform": "^1.0.9"
+  }
+}

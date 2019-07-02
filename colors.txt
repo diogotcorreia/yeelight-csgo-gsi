@@ -1,0 +1,5 @@
+Warmup: 255, 117, 186
+Freeze time: 0, 33, 255
+Round start: 123, 0, 255
+CT Wins: 0, 120, 255
+T Win: 255, 182, 0
